@@ -16,9 +16,9 @@ These are the 4 Dataset which we utilized for our project:<br>
 - Capitals' names and others location informations: <https://dealroom.co/our-data><br>
 - Startups' data for each country: <https://dealroom.co/our-data><br>
 
-## Website :globe_with_meridians:
+## Webpage :globe_with_meridians:
 
-This is the link of the page of our website: <>
+This is the .exe link of the page of our webpage: <>
 
 ## Libraries :book:
 Before running the code, install these libraries:<br>
