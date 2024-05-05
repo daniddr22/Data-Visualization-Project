@@ -6,11 +6,11 @@
 
 ## Project Description :memo:
 
-This project leverages extensive datasets to track growth and trends in the Unicorns ecosystem. Our analysis provides insights into the factors contributing to the success of these billion-dollar start-ups, starting with an overall view of the Unicorns' geographic-level expansion then focusing on industry-specific developments.
+This project leverages extensive datasets to track the growth and trends in the Unicorns ecosystem. Our analysis provides insights into the factors contributing to the success of these billion-dollar start-ups, starting with an overview of the Unicorns' geographic-level expansion, and then focusing on industry-specific developments.
 
 ## Datasets :bar_chart:
 
-These are the 4 Dataset on which we have framed our project:<br>
+These are the 4 Dataset which we utilized for our project:<br>
 - Unicorns collection of data: <https://dealroom.co/our-data><br>
 - Investors collection of data: <https://dealroom.co/our-data><br>
 - Capitals' names and others location informations: <https://dealroom.co/our-data><br>
