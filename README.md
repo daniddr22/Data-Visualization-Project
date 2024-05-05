@@ -2,7 +2,7 @@
 
 # The evolution of Unicorns ecosystem :unicorn:
 
-**Team Members**: Fabrizio Borrelli , Daniele De Robertis 787291, Davide Paquette, Raffaele Torelli 775831
+**Team Members**: Fabrizio Borrelli 789121, Daniele De Robertis 787291, Davide Paquette 789331, Raffaele Torelli 775831
 
 ## Project Description :memo:
 
@@ -11,11 +11,11 @@ This project leverages extensive datasets to track growth and trends in the Unic
 ## Datasets :bar_chart:
 
 These are the 4 Dataset on which we have framed our project:<br>
-- Unicorns collection of data: <><br>
-- Investors collection of data: <><br>
-- Capitals' names and others location informations: <><br>
-- Startups' data for each country: <><br>
-
+- Unicorns collection of data: <https://dealroom.co/our-data><br>
+- Investors collection of data: <https://dealroom.co/our-data><br>
+- Capitals' names and others location informations: <https://dealroom.co/our-data><br>
+- Startups' data for each country: <https://dealroom.co/our-data><br>
+https://dealroom.co/our-data
 ## Website :globe_with_meridians:
 
 This is the link of the page of our website: <>
