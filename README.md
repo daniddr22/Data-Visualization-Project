@@ -1,4 +1,4 @@
-![Banner](https://github.com/daniddr22/Data-Visualization-Project/blob/main/1687247097069.png)
+![Banner](https://github.com/daniddr22/Data-Visualization-Project/blob/main/DALL%C2%B7E%202024-05-05%2015.20.45%20-%20An%20artistic%20banner%20suitable%20for%20a%20project%20on%20unicorn%20startups%2C%20without%20any%20text.%20The%20image%20should%20feature%20a%20stylized%2C%20futuristic%20cityscape%20with%20skyscr.png)
 
 # The evolution of Unicorns ecosystem :unicorn:
 
@@ -21,3 +21,9 @@ These are the 4 Dataset on which we have framed our project:<br>
 This is the link of the page of our website: <>
 
 ## Libraries :book:
+Before running the code, install these libraries:<br>
+- `STREAMLIT` : this library enables to run correctly our code on the website.<br>
+- `PANDAS` : this library enables data manipulation and analysis.<br>
+- `NUMPY` : this library enables mathematical and scientific operations on multidimensional arrays.<br>
+- `PLOTLY.EXPRESS` : this library enables the creation interactive data visualizations.
+- `PLOTLY.GRAPH_OBJECTS` : this library enables the creation customized and highly customizable data visualizations
