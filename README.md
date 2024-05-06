@@ -22,7 +22,7 @@ This is the .exe link of the page of our webpage: <>
 
 ## Libraries :book:
 Before running the code, install these libraries:<br>
-- `STREAMLIT` : this library enables to run correctly our code on the website.<br>
+- `STREAMLIT` : this library enables to run correctly our code on the webpage.<br>
 - `PANDAS` : this library enables data manipulation and analysis.<br>
 - `NUMPY` : this library enables mathematical and scientific operations on multidimensional arrays.<br>
 - `PLOTLY.EXPRESS` : this library enables the creation interactive data visualizations.
