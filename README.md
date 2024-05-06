@@ -2,7 +2,8 @@
 
 # The evolution of Unicorns ecosystem :unicorn:
 
-**Team Members**: Fabrizio Borrelli 789121, Daniele De Robertis 787291, Davide Paquette 789331, Raffaele Torelli 775831
+**Team Members** 
+Group 12: Fabrizio Borrelli 789121, Daniele De Robertis 787291, Davide Paquette 789331, Raffaele Torelli 775831
 
 ## Project Description :memo:
 
