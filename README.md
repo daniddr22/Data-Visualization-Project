@@ -16,9 +16,11 @@ These are the 4 Dataset which we utilized for our project:<br>
 - Capitals' names and others location informations: <https://dealroom.co/our-data><br>
 - Startups' data for each country: <https://dealroom.co/our-data><br>
 
-## Webpage :globe_with_meridians:
 
-This is the .exe link of the page of our webpage: <>
+## Hot run the code :gear:
+
+To run the code, open your computers' terminal, and move towards the directory the `app.py`. Refer to the following link: <https://realpython.com/lessons/using-requirement-files/> in order to ensure correct installment of the `requirements.txt`. Ensure that all file libraries are installed. Afterwards, run the follwing code: `streamlit run website_functions.py` to generate the website.
+
 
 ## Libraries :book:
 Before running the code, install these libraries:<br>
