@@ -30,3 +30,6 @@ Before running the code, install these libraries:<br>
 - `NUMPY` : this library enables mathematical and scientific operations on multidimensional arrays.<br>
 - `PLOTLY.EXPRESS` : this library enables the creation interactive data visualizations.
 - `PLOTLY.GRAPH_OBJECTS` : this library enables the creation customized and highly customizable data visualizations
+
+## Git Hub: :octocat:
+For more information, please visit our Github: <https://github.com/daniddr22/Data-Visualization-Project>.
