@@ -19,8 +19,12 @@ These are the 4 Dataset which we utilized for our project:<br>
 
 
 ## Hot run the code :gear:
+Firstly, make sure to download all the files that are in the GitHub Repository.
 
-To run the code, open your computers' terminal, and move towards the directory the `app.py`. Refer to the following link: <https://realpython.com/lessons/using-requirement-files/> in order to ensure correct installment of the `requirements.txt`. Ensure that all file libraries are installed. Afterwards, run the follwing code: `streamlit run website_functions.py` to generate the website.
+Refer to the following link: <https://realpython.com/lessons/using-requirement-files/> in order to ensure correct installment of the `requirements.txt`. 
+Ensure that all file libraries are installed. 
+Afterwards, make sure to edit the required paths in the file called `app.py`, on the rows: 10, 11, 12, 13, 14, 15, 16 ,17, 2412, 2420, 2427, 2434.
+Run the follwing code: `streamlit run app.py` to generate the website (make sure to include the path of the python file).
 
 
 ## Libraries :book:
